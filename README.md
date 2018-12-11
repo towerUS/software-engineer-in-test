@@ -26,7 +26,7 @@ Benefits
 
 Tower’s main office and garden roofdeck are located in TriBeCa, a neighborhood in downtown Manhattan. While we work hard, Tower’s cubicle-free workplace, jeans-clad workforce, and well-stocked kitchens reflect the premium the firm places on quality of life. Benefits include:
 
-Competitive salary <br>
+Competitive salary </br>
 401(k) with company matching
 Five weeks of paid vacation per year plus nine paid holidays
 Free breakfast, lunch, and snacks on a daily basis
