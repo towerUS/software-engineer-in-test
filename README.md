@@ -3,7 +3,7 @@ Tower Research Capital, a high-frequency proprietary trading firm founded in 199
 
 The Markets division is responsible for providing market intelligence and liquidity access in addition to developing capabilities for new markets and optimizing access to existing ones.
 
-Responsibilities
+<b>Responsibilities</b>
 
 Contributing to the architecture, design, and implementation of an automated testing framework to reduce time to market and increase the quality of our product
 Working closely with software developers, testers and stakeholders globally to refine technical requirements for the test framework
