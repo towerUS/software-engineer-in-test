@@ -34,4 +34,4 @@ Tower’s main office and garden roofdeck are located in TriBeCa, a neighborhood
 - Reimbursement for health and wellness expenses </br>
 - Free tickets to New York events, including the US Open and TriBeCa Film Festival </br></br>
 
-<b> <font size="10" color="red"> Please visit our website to apply: https://www.tower-research.com/open-positions/?gh_jid=1041735 </font> </b>
+<b> <p style="font-size:20px"> Please visit our website to apply: https://www.tower-research.com/open-positions/?gh_jid=1041735 </p style> </b>
