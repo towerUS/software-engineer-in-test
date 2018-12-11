@@ -5,11 +5,12 @@ The Markets division is responsible for providing market intelligence and liquid
 
 <b>Responsibilities</b>
 
-Contributing to the architecture, design, and implementation of an automated testing framework to reduce time to market and increase the quality of our product
+Contributing to the architecture, design, and implementation of an automated testing framework to reduce time to market and increase the quality of our product <br>
 Working closely with software developers, testers and stakeholders globally to refine technical requirements for the test framework
 Designing technical testing strategies and heuristics for heavily integrated applications
 Creating and maintaining specification documents for the automation framework
-Qualifications
+
+<b>Qualifications</b>
 
 Bachelor’s or Master’s degree in Computer Science or a related field
 At least 3 years of experience programming in Python (2 or 3)
@@ -25,7 +26,7 @@ Benefits
 
 Tower’s main office and garden roofdeck are located in TriBeCa, a neighborhood in downtown Manhattan. While we work hard, Tower’s cubicle-free workplace, jeans-clad workforce, and well-stocked kitchens reflect the premium the firm places on quality of life. Benefits include:
 
-Competitive salary
+Competitive salary <br>
 401(k) with company matching
 Five weeks of paid vacation per year plus nine paid holidays
 Free breakfast, lunch, and snacks on a daily basis
