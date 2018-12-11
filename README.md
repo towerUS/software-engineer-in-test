@@ -32,4 +32,6 @@ Tower’s main office and garden roofdeck are located in TriBeCa, a neighborhood
 - Five weeks of paid vacation per year plus nine paid holidays </br>
 - Free breakfast, lunch, and snacks on a daily basis </br>
 - Reimbursement for health and wellness expenses </br>
-- Free tickets to New York events, including the US Open and TriBeCa Film Festival </br>
+- Free tickets to New York events, including the US Open and TriBeCa Film Festival </br></br>
+
+<b> <font size="10" color="red"> Please visit our website to apply: https://www.tower-research.com/open-positions/?gh_jid=1041735 </font> </b>
